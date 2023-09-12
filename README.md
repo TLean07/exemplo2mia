@@ -1,1 +1,1 @@
-# exemplo2mia
+Após Clonar o repositório do projeito executar : npm install
